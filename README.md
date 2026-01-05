@@ -1,7 +1,8 @@
 # 🔧 Take-Home Test – DevOps Engineer
 
 > **Niveau cible** : Engineer 2 / Senior 1 (3-6 ans d'expérience)  
-> **Durée estimée** : 4-6 heures (hors bonus)
+> **Durée estimée** : 4-6 heures (hors bonus)  
+> **Délai de rendu** : 5 jours maximum  
 
 ---
 
